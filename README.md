@@ -63,22 +63,28 @@ As a user,
 *	I want to understand what the site’s core functionalities are in the least amount of time
 
 ###DESIGN
+
 As a user,
 *	I want to understand Jay Pandya’s personal brand
 *	I want to see well thought out design and branding
 
 ##Controller
+
 As a developer,
 *	I want to figure out which business logic will be on the front end in AngularJS, and which business logic will lie on the backend in Node.js
+
 ###Front End Logic (ANGULAR)
+
 As a user,
+
 *	I want to be able to filter through photography by clicking on a tag
 *	I want to be able to filter through the portfolio by clicking on a tag
 As a developer,
 *	I want to be able to make POST and GET requests to the server from Angular
 *	I want all content on the website be received from an initial GET request from the server
-*
+
 ###Back End (NODE)
+
 As a developer,
 *	I want to be able to receive GET and POST requests on the Node.JS server using Express and Bodyparser
 *	I want to build a GET request for the route ‘/’ that sends to the client all home page information
