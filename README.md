@@ -8,6 +8,9 @@ By the time this project is completed, you should understand:
 *	Github for versioning
 *	A basic SCRUM system for software development
 
+
+# To Do
+
 ##Set Up
 
 1.	As a developer,
@@ -89,3 +92,12 @@ As a developer,
 *	I want to be able to receive GET and POST requests on the Node.JS server using Express and Bodyparser
 *	I want to build a GET request for the route ‘/’ that sends to the client all home page information
 *	I want to build a POST request for the route ‘/’ that receives from the client any contact information
+*	
+
+---------------------
+
+# In Progress
+
+
+---------------------
+# Done
